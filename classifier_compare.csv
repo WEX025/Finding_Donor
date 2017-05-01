@@ -1,0 +1,8 @@
+﻿Algorithm,Results interpretable?,Algorithm complexity,Average predictive accuracy,Training speed,Prediction speed,Amount of parameter tuning needed (excluding feature selection),Performs well with small number of observations?,Handles lots of irrelevant features well (separates signal from noise)?,Automatically learns feature interactions?,Gives calibrated probabilities of class membership?,Parametric?,Features might need scaling?,Application,Reference
+GaussianNB,Somewhat,Medium,Lower,Fast,Fast,Some for feature extraction,Yes,Yes,No,No,Yes,No,Explore the brain activities,[0]
+Decision trees,Somewhat,Medium,Lower,Fast,Fast,Some,No,No,Yes,Possibly,No,No,Dynamic security assessment ,[1]
+Random Forests,A little,Difficult,Higher,Slow,Moderate,Some,No,Yes (unless noise ratio is very high),Yes,Possibly,No,No,Selection of premium-quality vegetable oils,[2]
+KNN,Yes,Easy,Lower,Fast,Depends on n,Minimal,No,No,No,Yes,No,Yes,Text & Document mining,[3]
+SGDC,A little,Difficult,Lower,Fast,Fast,Some,Yes,Yes,Yes,No,/,No,Shared Memory Systems,[4]
+SVM,Somewhat,Difficult,Higher,Slow,Moderate,Some,No,No,Yes,No,No,Yes,Determination of natural gas viscosity,[5]
+Logistic regression,Somewhat,Medium,Lower,Fast,Fast,None (excluding regularization),Yes,No,No,Yes,Yes,No (unless regularized),Alzheimer's disease study,[6]
